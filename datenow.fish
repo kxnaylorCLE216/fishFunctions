@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/datenow.fish
+function datenow; date +"%m-%d-%Y"; end

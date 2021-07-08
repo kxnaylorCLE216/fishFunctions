@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/func.fish
+function func; cd ~/.config/fish/functions/; end

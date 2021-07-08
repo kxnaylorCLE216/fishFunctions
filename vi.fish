@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/vi.fish
+function vi; vim; end

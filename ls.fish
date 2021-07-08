@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/ls.fish
+function ls; exa; end

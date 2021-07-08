@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/open.fish
+function open; dolphin; end

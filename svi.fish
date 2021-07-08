@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/svi.fish
+function svi; sudo vim; end

@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/repos.fish
+function repos; cd /home/kxn/repos; end

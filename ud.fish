@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/ud.fish
+function ud; sudo pacman -Syu; end

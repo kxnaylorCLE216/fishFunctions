@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/e.fish
+function e; exit; end

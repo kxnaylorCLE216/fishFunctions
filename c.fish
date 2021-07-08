@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/c.fish
+function c; clear; end

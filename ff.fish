@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/ff.fish
+function ff; firefox; end

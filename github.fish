@@ -1,1 +1,1 @@
-/home/kxn/.config/fish/functions/github.fish
+function github; firefox https://github.com/kxnaylorCLE216 &; end
