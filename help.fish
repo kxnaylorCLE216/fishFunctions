@@ -1,0 +1,1 @@
+/home/kxn/.config/fish/functions/help.fish
