@@ -1,1 +1,1 @@
-function ff; firefox; end
+function ff; firefox&; end
