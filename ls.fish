@@ -1,1 +1,1 @@
-function ls; exa; end
+function ls; exa --long --header --icons --all; end
