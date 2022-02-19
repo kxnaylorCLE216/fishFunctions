@@ -1,0 +1,1 @@
+function showkeys; xev -event keyboard | egrep -o 'keycode.*\)'; end
